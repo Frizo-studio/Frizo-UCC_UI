@@ -1,3 +1,0 @@
-#B2702F 80% Backgroud color
-#4F3F2F navbar
-
